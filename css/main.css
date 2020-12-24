@@ -12,7 +12,7 @@ header{
 ul{
     list-style-type: none;
     float: right;
-    margin-top: 20px;
+    margin-top: 25px;
 }
 ul li{
     display: inline-block;
@@ -28,29 +28,25 @@ ul li a:hover{
     background-color: white;
     color: black;
 }
-ul li.active a{
-    background-color: white;
-    color: black;
-}
 .main{
     max-width: 1200px;
     margin:auto;
 }
-.title{
+.greetings{
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
     color: white;
 }
-.title h1{
+.greetings h1{
     color: white;
     font-size: 48px;
 }
 .social{
     position: absolute;
-    top: 60%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 }

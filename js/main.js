@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function(){
 var typed = new Typed('#typed', {
-      strings:['My name is Rahadina Budiman Sundara',
-               'I live in Indonesia',
-               'Reading, Listen Music, and wrote some code was my Hobby',
+      strings:['My name is Rahadina Budiman Sundara.',
+               'I live in Indonesia.',
+               'Reading, Listen Music, and wrote some code was my Hobby.',
                'Check on buttons below if you want to visit my social media.',
                'Cheers!',
             ],
